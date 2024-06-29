@@ -21,7 +21,7 @@ Angular CLI installed on your system
 A code editor or IDE of your choice**
 
 # Running the Application
-**Clone the repository: git clone https://github.com/[your-username]/UserManagement.git
+**Clone the repository: git clone https://github.com/Rajat1323/UserManagement.git
 Install the dependencies: npm install (in both the frontend and backend directories)
 Install nodemon in backend directories.
 Create one Db(schema ex: usermanagement) in mysql database
