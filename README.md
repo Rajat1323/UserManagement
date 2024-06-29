@@ -43,7 +43,7 @@ Call http://localhost:8080/api/auth/register api in postman and prove details
 
 
 # Rate this project
-** If you like this project, please consider rating it:
-:star: :star: :star: :star: :star: (5/5) **
+**If you like this project, please consider rating it:
+:star: :star: :star: :star: :star: (5/5)**
 # Contributing
 **Contributions are welcome! If you'd like to contribute to the UserManagement application, please fork the repository and submit a pull request.**
